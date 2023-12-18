@@ -1,0 +1,186 @@
+.header
+{
+	background: #EEC76F;
+}
+.conteiner
+{
+	width: 1000px;
+	margin: 0 auto;
+	
+}
+.conteiner_header
+{
+	display: flex;
+	align-items: center;
+	padding: 36px 0px;
+}
+.nav_list
+{
+	display: flex;
+	list-style:none;
+}
+.nav_item
+{
+	margin-right: 40px;
+}
+.logo_title
+{
+	margin-right: auto;
+	color: #FFF;
+	font-family: Nixie One;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.hero-block
+{
+	background: #683611;
+}
+.conteiner_hero-block
+{
+	display: flex;
+}
+.hero-block_btn
+{
+	background: #E29500;
+	width: 224px;
+	height: 47px;
+	border-radius: 6px;
+}
+.score__item
+{
+	list-style:none;
+}
+.score__full
+{
+	width: 356px;
+	height: 10px;
+	background: #00C4F0;
+}
+.score__done
+{
+	width: 287px;
+	height: 10px;
+	background: #2C2C2C;
+}
+.score__full
+{
+	width: 356px;
+	height: 10px;
+	background: #00C4F0;
+}
+.score__done1
+{
+	width: 51px;
+	height: 10px;
+	background: #2C2C2C;
+}
+.about
+{
+	background: #96581C;
+	padding: 20px 0px;
+}
+.about__content
+{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.about__img
+{
+	width: 632px;
+	height: 575.472px;
+}
+.video
+{
+	background: #683611;
+	padding: 20px 0px;
+	display: flex;
+	align-items: center;
+}
+.video_title
+{
+	text-align: center;
+}
+.video_video
+{
+	border: 40px solid darkgray;
+	border-radius: 29px;
+}
+.gallery_list
+{
+	display: flex;
+	list-style: none;
+	flex-wrap: wrap;
+}
+.gallery_item
+{
+	width: 33%;
+	border-radius: 29px;
+}
+.gallery_img
+{
+	width: 100%;
+}
+.gallery
+{
+	background: #96581C;
+	display: flex;
+	padding: 76px 17px 70px 16px;
+}
+.gallery_title
+{
+	font-family: Nico Moji;
+	font-size: 48px;
+	text-align: center;
+}
+.footer_img
+{
+	width: 50px;
+}
+.footer_list
+{
+	display: flex;
+	list-style: none;
+}
+.footer_item
+{
+	margin-right: 40px;
+}
+.conteiner_footer
+{
+	display: flex;
+	justify-content: space-between;
+}
+.footer 
+{
+	background: #2C2C2C;
+	padding: 50px 0;
+}
+.footer_title
+{
+	color: #E4E4E4;
+	font-family: Nixie One;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+.footer_text 
+{
+	color: #FFF;
+	font-family: Nixie One;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 164.063%; /* 26.25px */
+}
+#test
+{
+	color: red;
+}
+.test
+{
+	color: blue;
+}
